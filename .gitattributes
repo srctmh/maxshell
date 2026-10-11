@@ -1,0 +1,5 @@
+*.jar binary
+*.so binary
+*.apk binary
+*.ajm binary
+*.py binary

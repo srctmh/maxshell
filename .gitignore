@@ -1,0 +1,6 @@
+*.bak
+*.pyc
+__pycache__/
+tmp/
+.DS_Store
+debug.keystore
